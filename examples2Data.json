@@ -1,0 +1,75 @@
+[
+  {
+      "id": 0,
+      "toy": false,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8932381/",
+      "title": "Different thermostabilities of FLP and Cre recombinases: Implications for applied site-specific recombination",
+      "authors": "F Buchholz, L Ringrose, P O Angrand, F Rossi, A F Stewart",
+      "journalref": "NAR, 1996 Nov 1;24(21):4256-62",
+      "abstract": [
+          {
+              "id": 0,
+              "background": ["Background","<div class= 'Swift highlight'><p>Genomic manipulations using site-specific recombinases <span class='o'> rely on their applied characteristics </span> in living systems.</p></div> "],
+              "hamburger": ["Hamburger","To understand their applied properties so that they can be optimally deployed, we compared the recombinases FLP and Cre in two assays. "],
+              "data": ["Data", "In both Escherichia coli and in vitro, FLP shows a different temperature optimum than Cre. ","FLP is more thermolabile, having an optimum near 30 degrees C and little detectable activity above 39 degrees C. "," Cre is optimally efficient at 37 degrees C and above. ", "Consistent with FLP thermolability, recombination in a mammalian cell line mediated by a ligand- regulated FLP-androgen receptor fusion protein is more efficient at 35 degrees C than at higher temperatures. ","We also document a mutation in a commercially available FLP plasmid (FLP-F70L) which renders this recombinase even more thermolabile. "],
+              "cherry": ["Cherry", "The different temperature optima of FLP, FLP-F70L and Cre influence their strategies of usage. ","Our results recommend the use of Cre for applications in mice that require efficient recombination. ", "The thermolabilities of FLP and FLP-F70L can be usefully exploited for gain of function and cell culture applications."]
+          }
+      ],
+      "intro": [
+          {
+              "id": 1,
+              "firstSentence": ["First sentence", "text"],
+              "literature1": ["Background to topic", "text"],
+              "however": ["However", "text"],
+              "literature2": ["Background to problem", "text"],
+              "problem": ["Problem","text"],
+              "solution": ["Solution", "text"],
+              "cherry": ["Cherry", "text"]
+          }
+      ],
+      "results":[
+          {
+              "id": 2,
+              "section": [
+                  {
+                      "id": 0,
+                      "title": ["Title", "FLP recombinase is thermolabile in E.coli."],
+                      "background": ["Background","text"],
+                      "hamburger": ["Hamburger","text"],
+                      "strategy": ["Strategy", "text"],
+                      "result": ["Result", "text"],
+                      "conclusion": ["Conclusion", "text"]
+                  },
+                  
+                  {
+                      "id": 1,
+                      "title": ["Title", "FLP recombinase is thermolabile in vitro."],
+                      "background": ["Background","text"],
+                      "hamburger": ["Hamburger","text"],
+                      "strategy": ["Strategy", "text"],
+                      "result": ["Result", "text"],
+                      "conclusion": ["Conclusion", "text"]
+                  }
+              ]
+              
+          }
+      ],
+      
+      "discussion": [
+          {
+              "id": 3,
+              "summary": ["Summary","text"],
+              "compare": ["Compare to other work","text"],
+              "agree": ["Agree","text"],
+              "disagree": ["Disagree","text"],
+              "limitations": ["Limitations","text"],
+              "further": ["Further work","text"],
+              "implications": ["Implications","text"]
+              
+          }
+      ]
+  }
+ 
+]
+
+
