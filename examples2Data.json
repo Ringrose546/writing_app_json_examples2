@@ -10,7 +10,7 @@
           {
               "id": 0,
               "background": ["Background","<div class= 'Swift highlight'><p>Heat tolerance <span class='o'> is essential to </span> survival of frogs.</p></div>"],
-              "hamburger": ["Hamburger","To optimise heat tolerance in amphibians, we replaced the frog HEAT gene with its lizard ortholog. "],
+              "hamburger": ["Reason & Strategy","To optimise heat tolerance in amphibians, we replaced the frog HEAT gene with its lizard ortholog. "],
               "data": ["Data", "We compared these ‘lizardised frogs’ to natural frogs and lizards in a desert simulator, producing dry heat at temperatures of up to 45 degrees C. ","Lizardised frogs are ten fold more resistant to dehydration and heat effects than natural frogs, and two fold more resistant than natural lizards. "," Comparison of the frog and lizard HEAT genes revealed 3 amino acids that are different between the species. ", "Any two of the lizard amino acids are sufficient to confer increased heat resistance on frogs, and replacement of all three renders lizardised frogs more heat - resistant than natural lizards. "],
               "cherry": ["Cherry", "This work provides a tool for improving frog survival in desert environments, and gives insights into the evolution of heat tolerance in amphibians and reptiles. "]
           }
@@ -20,10 +20,9 @@
               "id": 1,
               "firstSentence": ["First sentence", "Heat tolerance plays a crucial role in survival, reproduction and ecological dominance of frog populations."],
               "literature1": ["Background to topic", "text"],
-              "however": ["However", "text"],
               "literature2": ["Background to problem", "text"],
-              "problem": ["Problem","text"],
-              "solution": ["Solution", "text"],
+              "problem": ["Problem & Solution","text"],
+              "summary": ["Summary of Data", "text"],
               "cherry": ["Cherry", "text"]
           }
       ],
